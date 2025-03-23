@@ -6,7 +6,7 @@ void main() {
 }
 
 class BotaoCadastro extends StatelessWidget {
-  const BotaoCadastro({Key? key}) : super(key: key);
+  const BotaoCadastro({super.key});
 
   @override
   Widget build(BuildContext context) {

@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class CadastroForm extends StatefulWidget {
+  const CadastroForm({super.key});
+
   @override
   _CadastroFormState createState() => _CadastroFormState();
 }
